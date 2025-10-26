@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/japanese-curry/","tags":["japanese"]}
+{"dg-publish":true,"permalink":"/recipes/japanese-curry/","tags":["japanese","recipes"]}
 ---
 
 ## Ingredients
