@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/miso-butter-noodles/","tags":["japanese","mains"]}
+{"dg-publish":true,"permalink":"/recipes/miso-butter-noodles/","tags":["japanese","mains","recipes"]}
 ---
 
 ## Ingredients

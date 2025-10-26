@@ -9,6 +9,7 @@ Things you might be interested in:
 [[My Thought Process\|My Thought Process]]
 [[Ingredients\|Ingredients]]
 [[Types of meals\|Types of meals]]
+[[Recipes\|Recipes]]
 
 
 

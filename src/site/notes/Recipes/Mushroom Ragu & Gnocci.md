@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/mushroom-ragu-and-gnocci/","tags":["mains","italian","fusion"]}
+{"dg-publish":true,"permalink":"/recipes/mushroom-ragu-and-gnocci/","tags":["mains","italian","fusion","recipes"]}
 ---
 
 

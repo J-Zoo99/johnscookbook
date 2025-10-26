@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/salt-and-pepper-chicken/","tags":["friedhicken","chinese","stirfry"]}
+{"dg-publish":true,"permalink":"/recipes/salt-and-pepper-chicken/","tags":["friedhicken","chinese","stirfry","recipes"]}
 ---
 
 
